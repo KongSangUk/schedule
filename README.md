@@ -15,9 +15,11 @@ Schedule Calendar (S.A)
 ![스크린샷 2022-06-20 오후 4 06 57](https://user-images.githubusercontent.com/100742282/174559858-9ec5c2a5-4eb9-4d1c-a535-8f2d4bb6c6c6.png)
 
 [2] 메인 페이지
+
 ![스크린샷 2022-06-20 오후 4 07 18](https://user-images.githubusercontent.com/100742282/174559878-5c7a1a11-2003-42ee-9f03-6e6467e815fa.png)
 
 [3] 작성 페이지 : 제목, 날짜, 시간, 구성원, 세부내용
+
 ![스크린샷 2022-06-20 오후 4 07 33](https://user-images.githubusercontent.com/100742282/174559923-016f4849-bd93-4d5f-ac3f-8204390fed96.png)
 
 # 4. API 설계
