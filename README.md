@@ -11,6 +11,7 @@ Schedule Calendar (S.A)
 ![스크린샷 2022-06-20 오후 5 21 55](https://user-images.githubusercontent.com/100742282/174559800-b9b4f758-a225-4606-9f78-56c122f8002c.png)
 
 [1] 로그인 페이지 : 로그인, 회원가입
+
 ![스크린샷 2022-06-20 오후 4 06 57](https://user-images.githubusercontent.com/100742282/174559858-9ec5c2a5-4eb9-4d1c-a535-8f2d4bb6c6c6.png)
 
 [2] 메인 페이지
