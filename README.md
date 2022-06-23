@@ -73,8 +73,10 @@
    * popup창 밖 클릭시 닫힘 구현
 
 #### 2. popup Record
-   * 
-   * 
+   * 제목, 구성원, 세부내용 text 방식 구현
+   * 일시, 시간 목록 list에서 [ date | time ] 방식 구현
+   * 확인 popup 내용 Calendar에 저장
+   * 닫기 popup 내용 취소
 
 <br/>
 
