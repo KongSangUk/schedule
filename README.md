@@ -49,19 +49,26 @@
 
 #### [main page 기능]
 -----------------------------
-1. main Calendar
-  *11
-  *55
+#### 1. main Calendar
+   * 
+   * 
+
+#### 2. second Calendar
+   * 
+   * 
 
 
 <br/>
 
 #### [modal 기능]
 -----------------------------
-1.
-2.
-3.
+#### 1. popup
+   * 
+   * 
 
+#### 2. popup Record
+   * 
+   * 
 
 <br/>
 
