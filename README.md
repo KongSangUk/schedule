@@ -10,7 +10,7 @@
 # Schedule Calendar Project
 -----------------------------
 
-### 프로젝트 기획 내용
+## 프로젝트 기획 내용
 >바쁜 현대사회에서 스케줄관리는 매우 중요한 일이다.<br/>
 >업무부터 약속의 부분까지, 금일의 일정부터 올해까지 우리는 매우 많은 Schedule 잡혀있다.
 >우리 팀은 Schedule을 관리하는 서비스가 증가하고 있다는 것을 확인하였다.
@@ -21,7 +21,7 @@
 
 <br/>
 
-### Schedule Calendar 기능 설명
+## Schedule Calendar 기능 설명
 -----------------------------
 #### [membership and login 기능]
 -----------------------------
@@ -34,12 +34,12 @@
    * true 확인시 ID 사용
    * false 확인시 재입력
    
-4. 회원 가입 PW 이중 검사<br/>
+#### 3. 회원 가입 PW 이중 검사<br/>
    * PW 입력 받아 [db = password, password2 ] 확인
    * true 확인시 사용
    * false 확인시 [ 비밀번호가 일치합니다. ] 문구 출력
    
-3. 로그인 
+#### 4. 로그인 
    * [ ID | PW ] 입력 받아 [ db = username, password ]
    * true 확인시 main page 이동.
    * false 확인시 main page 이동 불가.
