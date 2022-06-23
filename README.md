@@ -25,10 +25,13 @@
 -----------------------------
 #### [membership and login 기능]
 -----------------------------
-1. 회원 가입 [ ID = username ] , [ PW = password, password2 ] 입력 받는다.
+1. 회원 가입
+  * [ ID = username ]
+  * [ PW = password, password2 ]
+2. 회원 가입 ID 중복검사
   *
   *
-2. 회원 가입 ID 중복검사 및 [ password, password2 ] 입력 받아 일치 확인.
+4. 회원 가입 PW 중복검사
   *
   *
 3. 로그인 [ ID | PW ] input 받아 db 회원내용 확인.
