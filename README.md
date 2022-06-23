@@ -28,9 +28,8 @@
 1. 회원 가입<br/>
    * [ ID = username ]
    * [ PW = password, password2 ] <br/>
-
 2. 회원 가입 ID 중복검사<br/>
-   *
+   * ID 입력 
    *
 4. 회원 가입 PW 중복검사<br/>
    *
