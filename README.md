@@ -64,7 +64,9 @@
    * 등록 및 삭제 구현 
 
 #### 3. Calendar 동기화
-   * [main Calendar] [second Calendar] 연동 구현
+   * [ main Calendar ] [ second Calendar ] 동기화 구현
+   * 제목, 일시, 날짜, 인원, 세부내용 동기화 구현
+   * 메모 발생 시 일정 표시 동기화 구현 
 
 
 <br/>
@@ -81,6 +83,17 @@
    * 일시, 시간 목록 list에서 [ date | time ] 방식 구현
    * 확인 popup 내용 Calendar에 저장
    * 닫기 popup 내용 취소
+
+
+<br/>
+
+#### [ 기능]
+-----------------------------
+#### 1. 
+   * 
+
+#### 2. 
+   * 
 
 <br/>
 
