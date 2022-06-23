@@ -17,8 +17,11 @@
 
 ### Schedule Calendar 기능 설명
 -----------------------------
-#### [login and membership]
+#### [login and membership 기능]
 -----------------------------
+1.
+2.
+3.
 <br/>
 
 #### [Calendar 기능]
