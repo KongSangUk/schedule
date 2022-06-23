@@ -23,11 +23,15 @@
 
 ### Schedule Calendar 기능 설명
 -----------------------------
-#### [login and membership 기능]
+#### [membership and login 기능]
 -----------------------------
-1.
-2.
-3.
+1. 회원 가입 ID = username , PW = password, password2 입력 받는다.
+2. 회원 가입 ID 중복검사 및 password, password2 입력 받아 일치 확인.
+3. 로그인 ID|PW input 받아 db 회원내용 확인.
+   * true
+   * false
+
+
 <br/>
 
 #### [Calendar 기능]
