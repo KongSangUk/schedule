@@ -4,8 +4,9 @@
 - 사상원 팀원
 - 전인호 팀원
 <br/><br/>
-# 1.프로젝트명
-Schedule Calendar (S.A)
+# Schedule Calendar Project
+-----------------------------
+
 
 # 2. 소개
 같은 입장 코드를 가진 공유원 끼리의 스케줄 공유
