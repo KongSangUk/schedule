@@ -26,18 +26,15 @@
 #### [membership and login 기능]
 -----------------------------
 1. 회원 가입
-
    * [ ID = username ]
    * [ PW = password, password2 ]
 
 2. 회원 가입 ID 중복 검사<br/>
-
    * ID 입력 받아 [db = username] 확인
    * true 확인시 ID 사용
    * false 확인시 재입력
    
 4. 회원 가입 PW 이중 검사<br/>
-
    * PW 입력 받아 [db = password, password2 ] 확인
    * true 확인시 사용
    * false 확인시 [ 비밀번호가 일치합니다. ] 문구 출력
