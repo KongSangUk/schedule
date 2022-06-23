@@ -4,8 +4,6 @@
 - 사상원 팀원
 - 전인호 팀원
 
-
-
 # 1.프로젝트명
 Schedule Calendar (S.A)
 
