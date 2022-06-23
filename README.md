@@ -76,7 +76,7 @@
 #### 1. popup
    * modal 사용하여 상태바, 주소창 제거
    * 자연스러운 popup 움직임 구현
-   * popup창 밖 클릭시 닫힘 구현
+   * popup 창 밖 클릭시 닫힘 구현
 
 #### 2. popup Record
    * 제목, 구성원, 세부내용 text 방식 구현
