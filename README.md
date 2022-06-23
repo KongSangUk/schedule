@@ -40,7 +40,7 @@
    * false 확인시 [ 비밀번호가 일치합니다. ] 문구 출력
    
 #### 4. 로그인 
-   * [ ID | PW ] 입력 받아 [ db = username, password ]
+   * ID | PW 입력 받아 [ db = username, password ] 확인
    * true 확인시 main page 이동.
    * false 확인시 main page 이동 불가.
 
