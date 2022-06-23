@@ -31,12 +31,18 @@
    * [ PW = password, password2 ]
 
 2. 회원 가입 ID 중복검사<br/>
+
    * ID 입력 
    *
+   
 4. 회원 가입 PW 중복검사<br/>
+
    *
    *
+   
 3. 로그인 [ ID | PW ] input 받아 db 회원내용 확인.<br/>
+
+
    * true 확인시 main page 이동.
    * false 확인시 main page 이동 불가.
 
