@@ -63,6 +63,10 @@
    * 좌측 상단 작은 사이즈로 구현
    * 등록 및 삭제 구현 
 
+#### 3. Calendar 동기화
+   * [main Calendar] [second Calendar] 연동 구현
+
+
 <br/>
 
 #### [modal 기능]
