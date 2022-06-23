@@ -25,7 +25,7 @@
 -----------------------------
 #### [membership and login 기능]
 -----------------------------
-1. 회원 가입<br/>
+1. 회원 가입<br/><br/>
    * [ ID = username ]
    * [ PW = password, password2 ]
 2. 회원 가입 ID 중복검사<br/>
